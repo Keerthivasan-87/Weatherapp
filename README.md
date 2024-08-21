@@ -1,7 +1,8 @@
 # CODTECH TASK-1
-- **Name:** KEERTHIVASAN.M
-- **Company:** CODTECH IT SOLUTIONS
+- **Name:** KEERTHIVASAN.M<br>
+**Company:** CODTECH IT SOLUTIONS
 - **InternID:** CT6WTDS307
+- **Domain:**Full Stack Development
 - **Duration:** July 10th to August 25th
 - **Mentor:** Neela Santhosh Kumar
 # Weather App
