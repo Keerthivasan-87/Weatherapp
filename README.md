@@ -1,5 +1,5 @@
 # CODTECH TASK-1
-**Name: KEERTHIVASAN.M**.
+**Name: KEERTHIVASAN.M**
 **Company: CODTECH IT SOLUTIONS**
 **InterID: CT6WTDS307**
 **Duration: July 10th to August 25th**
