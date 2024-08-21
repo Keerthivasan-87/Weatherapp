@@ -35,16 +35,16 @@ This is a simple Weather App that fetches current weather data from an API and d
    ```bash
    git clone https://github.com/keerthivasan-87/weather-app.git
 
-##Navigate to the project directory:
--cd weather-app
--Open the index.html file in your browser to view the app.
+## Navigate to the project directory:
+- cd weather-app
+- Open the index.html file in your browser to view the app.
 
-##API Configuration
--This app uses the OpenWeatherMap API to fetch weather data. Follow these steps to set up the API:
+## API Configuration
+- This app uses the OpenWeatherMap API to fetch weather data. Follow these steps to set up the API:
 
--Sign up at OpenWeatherMap and get your API key.
+- Sign up at OpenWeatherMap and get your API key.
 
--In the JavaScript file (script.js), replace YOUR_API_KEY with your actual API key:
+- In the JavaScript file (script.js), replace YOUR_API_KEY with your actual API key:
 
 ```bash
   const apiKey = 'YOUR_API_KEY';
