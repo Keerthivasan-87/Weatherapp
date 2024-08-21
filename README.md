@@ -1,9 +1,9 @@
 # CODTECH TASK-1
-**Name: KEERTHIVASAN.M**
-**Company: CODTECH IT SOLUTIONS**
-**InterID: CT6WTDS307**
-**Duration: July 10th to August 25th**
-**Mentor: Neela Santhosh Kumar**
+**Name:** KEERTHIVASAN.M
+**Company:** CODTECH IT SOLUTIONS
+**InternID:** CT6WTDS307
+**Duration:** July 10th to August 25th
+**Mentor:** Neela Santhosh Kumar
 # Weather App
 
 This is a simple Weather App that fetches current weather data from an API and displays it for a given city. The app is built using HTML, CSS, and JavaScript.
