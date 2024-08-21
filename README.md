@@ -9,10 +9,6 @@ This is a simple Weather App that fetches current weather data from an API and d
 - **Weather Details**: Displays temperature, humidity, wind speed, and weather description.
 - **Responsive Design**: The app is responsive and works well on different screen sizes.
 
-## Demo
-
-[Link to live demo](#)
-
 ## Screenshots
 ![Screenshot from 2024-08-21 08-33-30](https://github.com/user-attachments/assets/fa861647-158e-4674-a623-f5583f536920)
 
