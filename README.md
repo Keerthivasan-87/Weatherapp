@@ -4,7 +4,7 @@
 **InternID:** CT6WTDS307<br>
 **Domain:** Full Stack Development<br>
 **Duration:** July 10th to August 25th<br>
-**Mentor:** Neela Santhosh Kumar
+**Mentor:** Muzammhil Ahmed
 # Weather App
 
 This is a simple Weather App that fetches current weather data from an API and displays it for a given city. The app is built using HTML, CSS, and JavaScript.
